@@ -1,5 +1,3 @@
-Portugol - Uma linguagem algorítmica em Português
-Introdução
 
 Linguagem desenvolvida com inspiração em C, em português, para facilitar o ensino de algoritmos a alunos iniciando em programação.
 
